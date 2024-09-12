@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Created for practice purpose</description>
+        <device_type>browser</device_type>
+        <hint>Created for practice purpose</hint>
+        <name/>
+        <order/>
+        <roles>activity_admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-12 10:58:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aaa087de83e8121084b3f855eeaad38c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo Application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Demo Application" source="x_1385867_demo_app">8c70035a83e4521084b3f855eeaad37b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Application">8c70035a83e4521084b3f855eeaad37b</sys_scope>
+        <sys_update_name>sys_app_application_aaa087de83e8121084b3f855eeaad38c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-12 10:58:20</sys_updated_on>
+        <title>Demo Application</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
